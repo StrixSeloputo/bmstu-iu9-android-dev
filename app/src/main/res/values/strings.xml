@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Atmosphere Pollution</string>
+    <string name="app_name">Air Pollution</string>
     <string name="co_label">Carbon Monoxide</string>
     <string name="typing_label">Type your location:</string>
     <string name="ok">OK</string>

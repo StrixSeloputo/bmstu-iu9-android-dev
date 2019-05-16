@@ -1,4 +1,4 @@
-package ru.bmstu.atmospherepollution.model;
+package ru.bmstu.airpollution.model;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

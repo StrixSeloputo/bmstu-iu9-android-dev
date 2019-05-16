@@ -1,4 +1,4 @@
-package ru.bmstu.atmospherepollution;
+package ru.bmstu.airpollution;
 
 import android.app.Dialog;
 import android.content.Intent;
@@ -16,8 +16,8 @@ import android.widget.Toast;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import ru.bmstu.atmospherepollution.model.Toxin;
-import ru.bmstu.atmospherepollution.model.ToxinType;
+import ru.bmstu.airpollution.model.Toxin;
+import ru.bmstu.airpollution.model.ToxinType;
 
 import static android.content.ContentValues.TAG;
 

@@ -1,4 +1,4 @@
-package ru.bmstu.atmospherepollution;
+package ru.bmstu.airpollution;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -23,9 +23,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
-import ru.bmstu.atmospherepollution.model.Pollution;
-import ru.bmstu.atmospherepollution.model.PollutionData;
-import ru.bmstu.atmospherepollution.model.Toxin;
+import ru.bmstu.airpollution.model.Pollution;
+import ru.bmstu.airpollution.model.PollutionData;
+import ru.bmstu.airpollution.model.Toxin;
 
 import static android.content.ContentValues.TAG;
 

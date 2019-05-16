@@ -1,4 +1,4 @@
-package ru.bmstu.atmospherepollution;
+package ru.bmstu.airpollution;
 
 import android.graphics.Color;
 import android.support.annotation.NonNull;
@@ -15,7 +15,7 @@ import java.util.List;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import ru.bmstu.atmospherepollution.model.PollutionData;
+import ru.bmstu.airpollution.model.PollutionData;
 
 @Data
 @EqualsAndHashCode(callSuper = false)

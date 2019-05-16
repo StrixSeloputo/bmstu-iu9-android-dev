@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.bmstu.atmospherepollution">
+    package="ru.bmstu.airpollution">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity
-            android:name="ru.bmstu.atmospherepollution.MainActivity"
+            android:name="ru.bmstu.airpollution.MainActivity"
             android:configChanges="locale|orientation">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,12 +23,12 @@
         </activity>
 
         <activity
-            android:name="ru.bmstu.atmospherepollution.ListOfPollutionDataActivity"
+            android:name="ru.bmstu.airpollution.ListOfPollutionDataActivity"
             android:configChanges="locale|orientation"
-            android:parentActivityName="ru.bmstu.atmospherepollution.MainActivity">
+            android:parentActivityName="ru.bmstu.airpollution.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="ru.bmstu.atmospherepollution.MainActivity" />
+                android:value="ru.bmstu.airpollution.MainActivity" />
         </activity>
 
     </application>
