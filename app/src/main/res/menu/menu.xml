@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.bmstu.atmospherepollution.MainActivity">
+
+    <item
+        android:id="@+id/toxin_co"
+        android:title="@string/toxin_co" />
+    <item
+        android:id="@+id/toxin_so2"
+        android:title="@string/toxin_so2" />
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/about" />
+
+
+</menu>

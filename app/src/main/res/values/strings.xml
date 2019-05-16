@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Atmosphere Pollution</string>
+    <string name="co_label">Carbon Monoxide</string>
+    <string name="typing_label">Type your location:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="toxin_co">CO</string>
+    <string name="toxin_so2">SO2</string>
+    <string name="change_toxin">Change toxin</string>
+    <string name="action_update">Update</string>
+    <string name="image_content_description">Some icon</string>
+    <string name="location_hint">0 10</string>
+
+
+    <string name="pref_list_size">Number of places to show</string>
+    <string name="settings">Settings</string>
+    <string name="pref_brief">Show brief data</string>
+    <string name="no_data">No data</string>
+    <string name="about">About</string>
+    <string name="mixing_ratio_label">Mixing ratio</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="precision_label">Precision</string>
+</resources>
